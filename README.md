@@ -1,2 +1,2 @@
 # XYZ
-RTS game.
+Fictional RTS game.
